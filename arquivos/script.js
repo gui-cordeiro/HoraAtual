@@ -1,15 +1,9 @@
-var intensidade = 35
-var mudarInten = false
-
 function config(){
     var msg = window.document.getElementById('msg')
     var img = window.document.getElementById('img')
-    var config = window.document.body.style
 
     var data = new Date()
     var horas = data.getHours()
-    
-
     var horario = data.toLocaleTimeString()
     var diaSem = data.toLocaleDateString()
 
