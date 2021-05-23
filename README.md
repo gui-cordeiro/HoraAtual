@@ -6,4 +6,5 @@ Este projeto consta de uma página web que possibilita o usuário visualizar a d
   - CSS: Fundo com gradiente, sombras, estilização de links e animações; e
   - JavaScript: Responsável por capturar a data e horário atuais e inseri-los ao HTML, além de selecionar adequadamente a foto principal ao site de acordo com a hora do dia (Manhã, tarde ou noite).
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/83349463/119276138-88b3e180-bbef-11eb-86a5-9be1e673bf2a.gif)
+
+https://user-images.githubusercontent.com/83349463/119276213-0677ed00-bbf0-11eb-9962-f1380b0f8cd9.mp4
