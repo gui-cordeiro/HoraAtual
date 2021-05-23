@@ -50,7 +50,7 @@ section div#divMsg{
 section p#msg {
     font: normal 20pt 'Big Shoulders Display';
     color: #26547cb9;
-    width: 12.6em;
+    width: 13em;
     margin-top: 60px;
     border-right: #26547cb9 solid 3px;
     white-space: nowrap;
@@ -63,7 +63,7 @@ section p#msg {
         width: 0;
     }
     100%{
-        width: 12.6em;
+        width: 13em;
     }
 }
 
